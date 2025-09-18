@@ -4,7 +4,7 @@
 
 <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e utilizo este espaço para reunir projetos, exercícios e trabalhos que refletem minha jornada de aprendizado.
   
-#
+---
   
 ## 📊 Minhas estatísticas no GitHub
 <div align="center">
